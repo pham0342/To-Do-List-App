@@ -18,4 +18,4 @@ A simple to-do list application built with HTML, CSS, and JavaScript.
 2. Open `index.html` in your browser
 
 ## Author
-Phạm Kenny
+Phạm Ken
